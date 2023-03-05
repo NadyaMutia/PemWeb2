@@ -99,7 +99,6 @@
                             break;
                         default:
                         echo '<td> Tidak Ada </td>';
-                            break;
                     }
                     ?>
                     </tr>
