@@ -34,13 +34,13 @@
                 <div class="form-group row">
                     <label for="tanggal" class="col-4 col-form-label">Tanggal Pemeriksaan</label> 
                     <div class="col-8">
-                    <input id="tanggal" name="tanggal" placeholder="Hari, Tanggal Bulan Tahun" type="text" class="form-control" required="required">
+                    <input id="tanggal" name="tanggal" placeholder="Hari, Tanggal Bulan Tahun" type="date" class="form-control" required="required">
                     </div>
                 </div>
                 <div class="form-group row">
                     <label for="tanggal lahir" class="col-4 col-form-label">Tanggal Lahir/Usia</label> 
                     <div class="col-8">
-                    <input id="tanggal lahir" name="tanggal lahir" placeholder="Hari, Tanggal Bulan Tahun" type="text" class="form-control" required="required">
+                    <input id="tanggal lahir" name="tanggal lahir" placeholder="Hari, Tanggal Bulan Tahun" type="date" class="form-control" required="required">
                     </div>
                 </div>
                 <div class="form-group row">
